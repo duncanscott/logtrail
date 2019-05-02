@@ -4,11 +4,11 @@
   "description": "Plugin to view, search & tail logs in Kibana",
   "main": "index.js",
   "kibana": {
-    "version": "6.7.1"
+    "version": "7.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sivasamyk/logtrail.git"
+    "url": "https://github.com/duncanscott/logtrail.git"
   },
   "license": "MIT",
   "bugs": {
